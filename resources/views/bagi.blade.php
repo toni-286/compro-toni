@@ -16,7 +16,7 @@
         <label for="">Angka 2</label>
         <input type="text" placeholder="Masukan angka" name="angka2" required>
         <br><br>
-        <button>Jumlahkan</button>
+        <button>Bagikan</button>
     </form>
         
     <h2>Jumlahnya adalah :{{$jumlah ?? 0}}</h2>
